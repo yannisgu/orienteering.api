@@ -12,7 +12,7 @@ You have to install nodejs (http://nodejs.org/) and then you can simply type
 
  node index.js
 
-This starts a simple webserver that provides the following routes (for complete reference check index.js):
+This starts a simple webserver that provides the following routes (for complete reference check app.js):
 
 ## /api/events
 list of events per year (query parameter year, defaults to current year)
